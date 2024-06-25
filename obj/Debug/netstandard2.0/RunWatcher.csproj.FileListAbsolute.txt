@@ -1,0 +1,10 @@
+C:\Users\alexs\Desktop\RunWatcher\bin\Debug\netstandard2.0\RunWatcher.deps.json
+C:\Users\alexs\Desktop\RunWatcher\bin\Debug\netstandard2.0\RunWatcher.dll
+C:\Users\alexs\Desktop\RunWatcher\bin\Debug\netstandard2.0\RunWatcher.pdb
+C:\Users\alexs\Desktop\RunWatcher\obj\Debug\netstandard2.0\RunWatcher.csproj.AssemblyReference.cache
+C:\Users\alexs\Desktop\RunWatcher\obj\Debug\netstandard2.0\RunWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\Desktop\RunWatcher\obj\Debug\netstandard2.0\RunWatcher.AssemblyInfoInputs.cache
+C:\Users\alexs\Desktop\RunWatcher\obj\Debug\netstandard2.0\RunWatcher.AssemblyInfo.cs
+C:\Users\alexs\Desktop\RunWatcher\obj\Debug\netstandard2.0\RunWatcher.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\RunWatcher\obj\Debug\netstandard2.0\RunWatcher.dll
+C:\Users\alexs\Desktop\RunWatcher\obj\Debug\netstandard2.0\RunWatcher.pdb
